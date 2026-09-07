@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+cyfi
+geopandas
+pydantic
+requests
+scikit-learn
+python-multipart
